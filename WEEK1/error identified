@@ -1,0 +1,1 @@
+Whenever we access the memory address after 10th index then output must be high impedance but we are getting the unknown output.
